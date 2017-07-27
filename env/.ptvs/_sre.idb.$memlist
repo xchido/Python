@@ -1,0 +1,14 @@
+BuiltinImporter
+CODESIZE
+MAGIC
+MAXREPEAT
+SRE_Match
+SRE_Pattern
+__doc__
+__loader__
+__name__
+__package__
+compile
+copyright
+getcodesize
+getlower

@@ -1,0 +1,13 @@
+BuiltinImporter
+__about__
+__doc__
+__loader__
+__name__
+__package__
+heapify
+heappop
+heappush
+heappushpop
+heapreplace
+nlargest
+nsmallest

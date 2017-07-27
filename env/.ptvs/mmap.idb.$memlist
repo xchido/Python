@@ -1,0 +1,12 @@
+ACCESS_COPY
+ACCESS_READ
+ACCESS_WRITE
+ALLOCATIONGRANULARITY
+BuiltinImporter
+PAGESIZE
+__doc__
+__loader__
+__name__
+__package__
+error
+mmap
